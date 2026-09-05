@@ -15,4 +15,11 @@ export const videos: Video[] = [
     description: "Maybe Podcast",
     src: "https://www.youtube.com/watch?v=Y9U_2onR2rI&t=2192s",
   },
+  {
+    id: "8rf3uqDj00A",
+    title:
+      "Great Minds - Part 1 - Plato's Republic I: Justice, Power, and Knowledge",
+    description: "Michael Sugrue",
+    src: "https://www.youtube.com/watch?v=8rf3uqDj00A",
+  },
 ];
