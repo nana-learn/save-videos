@@ -40,4 +40,11 @@ export const videos: Video[] = [
     description: "Thư Hiên Dịch Trường",
     src: "https://www.youtube.com/watch?v=JdkouzK4Pco",
   },
+  {
+    id: "L5xjpLy-Dl4",
+    title:
+      "GEN Z, CÔ ĐƠN, VÀ TOÀN TRỊ: MỘT GÓC NHÌN TỪA HANNAH ARENDT | HỘI ĐỒNG CỦU",
+    description: "Hội Đồng Cựu",
+    src: "https://www.youtube.com/watch?v=L5xjpLy-Dl4",
+  },
 ];
