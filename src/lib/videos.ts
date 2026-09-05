@@ -22,4 +22,10 @@ export const videos: Video[] = [
     description: "Michael Sugrue",
     src: "https://www.youtube.com/watch?v=8rf3uqDj00A",
   },
+  {
+    id: "C8M4i9fvq1M",
+    title: "How Islam Saved Western Civilization",
+    description: "Dr. Roy Casagranda",
+    src: "https://www.youtube.com/watch?v=C8M4i9fvq1M&t=5548s",
+  },
 ];
