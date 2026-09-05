@@ -34,4 +34,10 @@ export const videos: Video[] = [
     description: "COREfidence",
     src: "https://www.youtube.com/watch?v=lALE4iV5hiU",
   },
+  {
+    id: "JdkouzK4Pco",
+    title: "SIÊU HÌNH HỌC - LOGIC HEGEL | TS. DƯƠNG NGỌC DŨNG",
+    description: "Thư Hiên Dịch Trường",
+    src: "https://www.youtube.com/watch?v=JdkouzK4Pco",
+  },
 ];
