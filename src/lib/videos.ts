@@ -28,4 +28,10 @@ export const videos: Video[] = [
     description: "Dr. Roy Casagranda",
     src: "https://www.youtube.com/watch?v=C8M4i9fvq1M&t=5548s",
   },
+  {
+    id: "lALE4iV5hiU",
+    title: "Tự tin làm người, được không? | TS. Bùi Trần Phượng | COREfidence",
+    description: "COREfidence",
+    src: "https://www.youtube.com/watch?v=lALE4iV5hiU",
+  },
 ];
