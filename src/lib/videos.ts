@@ -54,4 +54,11 @@ export const videos: Video[] = [
     description: "Vietcetera",
     src: "https://www.youtube.com/watch?v=IIeQ_D3fnIs",
   },
+  {
+    id: "D7n-Xrjhqng",
+    title:
+      "Minh oan cho Thuý Vân: Không nhạt, Không kém, Không vô duyên | TS Bùi Trần Phượng | DG Phan Đăng",
+    description: "Diễn Giả PHAN ĐĂNG",
+    src: "https://www.youtube.com/watch?v=D7n-Xrjhqng",
+  },
 ];
