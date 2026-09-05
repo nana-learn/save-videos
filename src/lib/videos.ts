@@ -61,4 +61,10 @@ export const videos: Video[] = [
     description: "Diễn Giả PHAN ĐĂNG",
     src: "https://www.youtube.com/watch?v=D7n-Xrjhqng",
   },
+  {
+    id: "b6UkyGrF92Q",
+    title: "Giải Trí Đến Chết | Cuốn Sách Thức Tỉnh Mình",
+    description: "The Human Page",
+    src: "https://www.youtube.com/watch?v=b6UkyGrF92Q",
+  },
 ];
