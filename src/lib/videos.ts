@@ -47,4 +47,11 @@ export const videos: Video[] = [
     description: "Hội Đồng Cựu",
     src: "https://www.youtube.com/watch?v=L5xjpLy-Dl4",
   },
+  {
+    id: "IIeQ_D3fnIs",
+    title:
+      "Học nhiều để làm gì nếu không biết làm người? - Tiến sĩ Bùi Trần Phượng | EduStation EP39",
+    description: "Vietcetera",
+    src: "https://www.youtube.com/watch?v=IIeQ_D3fnIs",
+  },
 ];
