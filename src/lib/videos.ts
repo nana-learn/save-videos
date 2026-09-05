@@ -2,16 +2,17 @@ export type Video = {
   id: string;
   title: string;
   description?: string;
-  /** Local path under `public/` (e.g. `/videos/clip.mp4`) or a full URL. */
+  /** YouTube URL, remote file URL, or local path under `public/` (e.g. `/videos/clip.mp4`). */
   src: string;
   poster?: string;
 };
 
 export const videos: Video[] = [
-  // {
-  //   id: "example",
-  //   title: "Example clip",
-  //   description: "Put files in public/videos/ or use a remote URL.",
-  //   src: "/videos/example.mp4",
-  // },
+  {
+    id: "Y9U_2onR2rI",
+    title:
+      "Tự học là chuyện suốt đời | Nhà giáo dục, nhà nghiên cứu lịch sử, TS. Bùi Trần Phượng | 5W1H",
+    description: "Maybe Podcast",
+    src: "https://www.youtube.com/watch?v=Y9U_2onR2rI&t=2192s",
+  },
 ];

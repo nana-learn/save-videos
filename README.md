@@ -15,6 +15,7 @@ A simple page for displaying saved videos.
 ```
 src/
   app/             # Next.js App Router pages
+  components/      # YouTube / file video player
   lib/             # videos.ts — video list
 public/
   videos/          # Local video files (optional)
@@ -30,15 +31,14 @@ npm run build      # static export to ./out
 
 ## Adding a Video
 
-1. Put the file in `public/videos/` (or use a remote URL)
-2. Add an entry in `src/lib/videos.ts`:
+Add an entry in `src/lib/videos.ts`. YouTube links play in an embedded player (including `t=` start times). Local files go in `public/videos/`.
 
 ```ts
 {
   id: "clip-1",
   title: "My clip",
   description: "Optional description",
-  src: "/videos/clip-1.mp4",
+  src: "https://www.youtube.com/watch?v=VIDEO_ID&t=2192s",
 }
 ```
 
